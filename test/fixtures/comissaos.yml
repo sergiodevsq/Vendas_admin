@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  venda: one
+  valor: 9.99
+  usuario: one
+  status: 1
+  notas: MyText
+
+two:
+  venda: two
+  valor: 9.99
+  usuario: two
+  status: 1
+  notas: MyText

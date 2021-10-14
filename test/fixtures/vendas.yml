@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cliente: one
+  data_venda: 2021-10-14
+  usuario: one
+  desconto: one
+  notas: MyText
+
+two:
+  cliente: two
+  data_venda: 2021-10-14
+  usuario: two
+  desconto: two
+  notas: MyText
